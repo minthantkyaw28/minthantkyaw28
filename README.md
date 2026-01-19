@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Min Thant Kyaw</h1>
-<h3 align="center">Computer Science enthusiast from Myanmar</h3>
+<h3 align="center">Computer Science/AI Enginner from Goldenland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minthantkyaw28&label=Profile%20views&color=0e75b6&style=flat" alt="minthantkyaw28" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://minthantkyaw.pythonanywhere.com/minthantkyaw/](https://minthantkyaw.pythonanywhere.com/minthantkyaw/)
+- 👨‍💻 All of my projects are available at [https://minthantkyaw.com](https://minthantkyaw.com)
 
-- 📫 How to reach me **wanderhobby@gmail.com**
+- 📫 How to reach me **m.kyaw@se25.qmul.ac.uk** **wanderhobby@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
